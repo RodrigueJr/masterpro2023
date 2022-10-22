@@ -1,0 +1,117 @@
+baseurl: ""
+languageCode: fr-FR
+title: MasterPro
+theme: hugo-stellar-theme
+googleAnalytics: ''
+params:
+  footer:
+    action:
+      - buttontext: Learn More
+        href: generic.html
+    address: 2 Rue de Normandie, Normandie, 22222
+    copyright:
+      enable: yes
+      text: '© Copyrigth HRE-INVEST 2022'
+    description: BlaBlaBla
+    email: marcel@soh-invest.com
+    enable: yes
+    phone: (+33) 06 17 84 71 26
+    second_title: Infos - Contact
+    social:
+      - icon: fa-envelope
+        link: "mailto:marcel@soh-invest.com"
+        title: Email
+    social_list:
+      enable: yes
+    title: Infos - Contact
+  header:
+    description: Dream - Work - Achieve - Inspire 
+    image: images/logo.svg
+    title: MasterPro 2023
+  intro:
+    action:
+      - buttontext: Learn More
+        href: generic.html
+    description: Séminaire de Professionnalisation \n
+    
+            Gagner 1an d’apprentissage en une semaine\n
+
+            Apprendre des meilleurs, ceux qui réussissent
+            Dans le Team
+            Dans la Lignée (Geo, Richard,..)
+            
+            Être dans un environnement isolé du monde, très motivant
+            
+            Avoir des moments privilégiés avec Stellium (P. Lauzeral, P. Dulout)
+            
+            Apprendre pour dupliquer de manière efficace.
+    image: images/masterpros.png
+    title: MasterPro 2023
+  navigation:
+    - href: '#intro'
+      name: MasterPro 2023
+    - href: '#first'
+      name: Inscription
+    - href: '#second'
+      name: Second Section
+  section:
+    - description: ''
+      feature:
+        - description: 2 Rue de Normandie, Normandie, 22222
+          icon: fa-copy
+          title: Lieu 
+        - description: 650 Euros (600 Euros pour les nouveaux qui ont moins de 3 mois dans l'activité)
+          icon: fa-diamond
+          title: Prix
+        - description: Envoyer un Mail à [Marcel](mailto:marcel@soh-invest.com) pour valider votre place en mettant votre Parrain en Copie
+          icon: fa-diamond
+          title: Comment
+          action:
+            - buttontext: Cliquez - pour vous inscrire
+              href: generic.html
+      features:
+        enable: yes
+      footer:
+        action:
+          - buttonUrl: generic.html
+            buttontext: Learn More
+        enable: yes
+      id: first
+      title: Modalités d'Inscription
+    - content:
+        enable: yes
+        text: Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu
+          arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit
+          amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed
+          convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend
+          a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur
+          vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero.
+          Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque.
+          Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur
+          lacinia.
+      description: Donec imperdiet consequat consequat. Suspendisse feugiat congue
+        posuere. Nulla massa urna, fermentum eget quam aliquet.
+      footer:
+        action:
+          - buttonUrl: generic.html
+            buttontext: Learn More
+        enable: yes
+      id: second
+      statistic:
+        - icon: fa-code-fork
+          text: Etiam
+          value: .na.integer
+        - icon: fa-folder-open-o
+          text: Magna
+          value: .na.integer
+        - icon: fa-signal
+          text: Tempus
+          value: .na.integer
+        - icon: fa-laptop
+          text: Aliquam
+          value: .na.integer
+        - icon: fa-diamond
+          text: Nullam
+          value: .na.integer
+      statistics:
+        enable: yes
