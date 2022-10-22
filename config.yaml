@@ -18,12 +18,12 @@ params:
     image: images/masterprol.png
   intro:
     description: | 
-      * Séminaire de Professionnalisation 
-      * Gagner 1an d’apprentissage en une semaine
-      * Apprendre des meilleurs, de ceux qui réussissent
-      * Être dans un environnement isolé, très motivant
-      * Avoir des moments privilégiés avec Stellium
-      * Apprendre pour dupliquer de manière efficace. 
+       * ### __Séminaire de Professionnalisation__
+       * ### __Gagner 1an d’apprentissage en une semaine__
+       * ### __Apprendre des meilleurs, de ceux qui réussissent__
+       * ### __Être dans un environnement isolé, très motivant__
+       * ### __Avoir des moments privilégiés avec Stellium__
+       * ### __Apprendre pour dupliquer de manière efficace.__
     image: images/masterpros.png
     title: MasterPro 2023
   navigation:
