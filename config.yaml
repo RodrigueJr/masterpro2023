@@ -36,16 +36,16 @@ params:
   section:
     - description: ''
       feature:
-        - description:  Hôtel du Beryl, Bagnoles sur L'Ornes, Normandie
+        - description:  __Hôtel du Beryl, Bagnoles sur L'Ornes, Normandie__
           icon: fa-copy
           title: Lieu 
-        - description:  Une Semaine en Septembre -DATE A VENIR-
+        - description:  __Une Semaine en Septembre -DATE A VENIR-__
           icon: fa-copy
           title: Quand 
-        - description: 650€ (600€ pour les nouveaux qui ont moins de 3 mois dans l'activité)
+        - description: "__650€__ \n\n _600€ pour les nouveaux qui ont moins de 3 mois dans l'activité_"
           icon: fa-diamond
           title: Prix
-        - description: Envoyer un Mail à [Marcel](mailto:marcel@soh-invest.com) pour pré-reserver votre place tout en mettant votre Parrain en Copie
+        - description: __Envoyer un Mail à [Marcel](mailto:marcel@soh-invest.com) pour pré-reserver votre place tout en mettant votre Parrain en Copie__
           icon: fa-diamond
           title: Comment
       features:
@@ -57,7 +57,8 @@ params:
     - content:
         enable: no
         text: Pour attirer et saisir des opportunités, demandez-vous si vous êtes une opportunité pour les autres.
-      description: Rendez-vous place des Grands Hommes
+      description: |
+        # __Rendez-vous place des Grands Hommes__
       title: LGH
       footer:
         enable: yes
