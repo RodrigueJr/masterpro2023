@@ -15,9 +15,7 @@ params:
     phone: (+33) 06 17 84 71 26
     second_title: Infos - Contact
   header:
-    description: Dream - Work - Achieve - Inspire 
-    image: images/logo.svg
-    title: MasterPro 2023
+    image: images/masterprol.png
   intro:
     description: | 
       Séminaire de Professionnalisation 
