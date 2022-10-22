@@ -1,29 +1,19 @@
 baseurl: ""
-languageCode: fr-FR
+languageCode: fr-fr
 title: MasterPro
 theme: hugo-stellar-theme
 googleAnalytics: ''
 params:
   footer:
     action:
-      - buttontext: Learn More
-        href: generic.html
-    address: 2 Rue de Normandie, Normandie, 22222
+    address: Hôtel du Beryl, Bagnoles sur L'Ornes, Normandie
     copyright:
       enable: yes
-      text: '© Copyrigth HRE-INVEST 2022'
-    description: BlaBlaBla
+      text: '© Copyrigth HRE-INVEST 2022 - 2023'
     email: marcel@soh-invest.com
     enable: yes
     phone: (+33) 06 17 84 71 26
     second_title: Infos - Contact
-    social:
-      - icon: fa-envelope
-        link: "mailto:marcel@soh-invest.com"
-        title: Email
-    social_list:
-      enable: yes
-    title: Infos - Contact
   header:
     description: Dream - Work - Achieve - Inspire 
     image: images/logo.svg
@@ -32,19 +22,18 @@ params:
     action:
       - buttontext: Learn More
         href: generic.html
-    description: Séminaire de Professionnalisation \n
-    
-            Gagner 1an d’apprentissage en une semaine\n
-
-            Apprendre des meilleurs, ceux qui réussissent
-            Dans le Team
-            Dans la Lignée (Geo, Richard,..)
-            
-            Être dans un environnement isolé du monde, très motivant
-            
-            Avoir des moments privilégiés avec Stellium (P. Lauzeral, P. Dulout)
-            
-            Apprendre pour dupliquer de manière efficace.
+    description: | 
+      Séminaire de Professionnalisation 
+      
+        Gagner 1an d’apprentissage en une semaine
+      
+      Apprendre des meilleurs, de ceux qui réussissent
+      
+      Être dans un environnement isolé, très motivant
+      
+      Avoir des moments privilégiés avec Stellium
+      
+      Apprendre pour dupliquer de manière efficace. 
     image: images/masterpros.png
     title: MasterPro 2023
   navigation:
@@ -53,17 +42,20 @@ params:
     - href: '#first'
       name: Inscription
     - href: '#second'
-      name: Second Section
+      name: LGH
   section:
     - description: ''
       feature:
-        - description: 2 Rue de Normandie, Normandie, 22222
+        - description:  Hôtel du Beryl, Bagnoles sur L'Ornes, Normandie
           icon: fa-copy
           title: Lieu 
-        - description: 650 Euros (600 Euros pour les nouveaux qui ont moins de 3 mois dans l'activité)
+        - description:  Une Semaine en Septembre -DATE A VENIR-
+          icon: fa-copy
+          title: Quand 
+        - description: 650€ (600€ pour les nouveaux qui ont moins de 3 mois dans l'activité)
           icon: fa-diamond
           title: Prix
-        - description: Envoyer un Mail à [Marcel](mailto:marcel@soh-invest.com) pour valider votre place en mettant votre Parrain en Copie
+        - description: Envoyer un Mail à [Marcel](mailto:marcel@soh-invest.com) pour pré-reserver votre place tout en mettant votre Parrain en Copie
           icon: fa-diamond
           title: Comment
           action:
@@ -72,46 +64,23 @@ params:
       features:
         enable: yes
       footer:
-        action:
-          - buttonUrl: generic.html
-            buttontext: Learn More
         enable: yes
       id: first
       title: Modalités d'Inscription
     - content:
-        enable: yes
-        text: Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu
-          arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit
-          amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed
-          convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend
-          a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur
-          vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero.
-          Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque.
-          Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur
-          lacinia.
-      description: Donec imperdiet consequat consequat. Suspendisse feugiat congue
-        posuere. Nulla massa urna, fermentum eget quam aliquet.
+        enable: no
+        text: Pour attirer et saisir des opportunités, demandez-vous si vous êtes une opportunité pour les autres.
+      description: Rendez-vous place des Grands Hommes
+      title: LGH
       footer:
-        action:
-          - buttonUrl: generic.html
-            buttontext: Learn More
         enable: yes
       id: second
       statistic:
         - icon: fa-code-fork
-          text: Etiam
-          value: .na.integer
+          value: Leadership
         - icon: fa-folder-open-o
-          text: Magna
-          value: .na.integer
+          value: Entrepreunariat
         - icon: fa-signal
-          text: Tempus
-          value: .na.integer
-        - icon: fa-laptop
-          text: Aliquam
-          value: .na.integer
-        - icon: fa-diamond
-          text: Nullam
-          value: .na.integer
+          value: Gestion de patrimoine
       statistics:
         enable: yes
