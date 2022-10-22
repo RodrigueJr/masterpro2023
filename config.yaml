@@ -19,9 +19,6 @@ params:
     image: images/logo.svg
     title: MasterPro 2023
   intro:
-    action:
-      - buttontext: Learn More
-        href: generic.html
     description: | 
       Séminaire de Professionnalisation 
       
