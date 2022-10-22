@@ -18,17 +18,12 @@ params:
     image: images/masterprol.png
   intro:
     description: | 
-      Séminaire de Professionnalisation 
-      
-        Gagner 1an d’apprentissage en une semaine
-      
-      Apprendre des meilleurs, de ceux qui réussissent
-      
-      Être dans un environnement isolé, très motivant
-      
-      Avoir des moments privilégiés avec Stellium
-      
-      Apprendre pour dupliquer de manière efficace. 
+      * Séminaire de Professionnalisation 
+      * Gagner 1an d’apprentissage en une semaine
+      * Apprendre des meilleurs, de ceux qui réussissent
+      * Être dans un environnement isolé, très motivant
+      * Avoir des moments privilégiés avec Stellium
+      * Apprendre pour dupliquer de manière efficace. 
     image: images/masterpros.png
     title: MasterPro 2023
   navigation:
@@ -53,9 +48,6 @@ params:
         - description: Envoyer un Mail à [Marcel](mailto:marcel@soh-invest.com) pour pré-reserver votre place tout en mettant votre Parrain en Copie
           icon: fa-diamond
           title: Comment
-          action:
-            - buttontext: Cliquez - pour vous inscrire
-              href: generic.html
       features:
         enable: yes
       footer:
