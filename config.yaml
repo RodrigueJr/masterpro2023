@@ -45,7 +45,7 @@ params:
         - description: "__650€__ \n\n _600€ pour les nouveaux qui ont moins de 3 mois dans l'activité_"
           icon: fa-diamond
           title: Prix
-        - description: __Envoyer un Mail à [Marcel](mailto:marcel@soh-invest.com?Subjet:Je%20réserve%20ma%20place%20pour%20le%20MasterPro%202023) pour pré-reserver votre place tout en mettant votre Parrain en Copie__
+        - description: __Envoyer un Mail à [Marcel](mailto:marcel@soh-invest.com?subjet=Je) pour pré-reserver votre place tout en mettant votre Parrain en Copie__
           icon: fa-diamond
           title: Comment
       features:
