@@ -6,7 +6,7 @@ googleAnalytics: ''
 params:
   footer:
     action:
-    address: Hôtel du Beryl, Bagnoles sur L'Ornes, Normandie
+    address: Normandie
     copyright:
       enable: yes
       text: '© Copyrigth HRE-INVEST 2022 - 2023'
@@ -36,10 +36,10 @@ params:
   section:
     - description: ''
       feature:
-        - description:  __Hôtel du Beryl, Bagnoles sur L'Ornes, Normandie__
+        - description:  __Montpellier__
           icon: fa-copy
           title: Lieu 
-        - description:  __Une Semaine en Septembre -DATE A VENIR-__
+        - description:  __1er au 6  OCtobre 2023__
           icon: fa-copy
           title: Quand 
         - description: "__650€__ \n\n _600€ pour les nouveaux qui ont moins de 3 mois dans l'activité_"
