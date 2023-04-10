@@ -6,7 +6,7 @@ googleAnalytics: ''
 params:
   footer:
     action:
-    address: Normandie
+    address: Montpellier
     copyright:
       enable: yes
       text: '© Copyrigth HRE-INVEST 2022 - 2023'
