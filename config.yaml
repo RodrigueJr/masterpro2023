@@ -48,7 +48,7 @@ params:
         - description: __Envoyer un Mail à Marcel (en cliquant sur le lien en bas) pour pré-reserver votre place tout en mettant votre Parrain en Copie__
           icon: fa-diamond
           title: Comment
-        - description: __Faire ensuite le virement à Marcel: SOH Marcel IBAN: FR7630004008750000146841825 BIC: BNPAFRPPXXX__
+        - description: __Faire ensuite le virement à Marcel__
           icon: fa-diamond
           title: Comment payer
       features:
